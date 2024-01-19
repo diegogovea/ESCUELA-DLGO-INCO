@@ -1,5 +1,6 @@
 # 2024A - I7030 - S de S de Problemas de Sistemas Operativos
 
+### Evaluación de los trabajos.
 - Portada (10%)
 - Cuerpo del documento parafraseado (sus propias palabras) 60%
 - Conclusión (15%)
