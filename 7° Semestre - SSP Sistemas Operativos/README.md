@@ -6,3 +6,5 @@
 - Conclusión (15%)
 - Bibliografía (15%)
 - Cuando el documento lleve evidencia gráfica, esta debe ser de su creación, si es de internet mencionarlo y solo cuando esta no se pueda crear de manera propia, toda imagen debe ser comentada.
+
+### NOTAS
