@@ -1,4 +1,4 @@
 # ESCUELA-DLGO-INCO
 
-## Descripción
+### Descripción
 Todos los programas creados para mis tareas en la carrera de Ingeniería en Computación.
